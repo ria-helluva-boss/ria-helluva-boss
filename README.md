@@ -16,7 +16,7 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
   <li>Fun fact: As a kid I wanted to be a rock star, a motorcycle racer and a WWE wrestler (and I still do) 👩🏻‍🎤</li>
 </ul>
 
-<h2> Technologies: </h2>
+<h2> technologies: </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="React" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>Connect me:</h2>
+<h2>connect me:</h2>
 <ul>
  <li><a href="https://t.me/helluvaboss_xvz">Telegram</a></li>
  <li><a href="mailto:dianaprins179@gmail.com">E-mail</a></li>
