@@ -13,7 +13,7 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
   <li>I’m currently working on ReactJS🧞‍♀️</li>
   <li>I’m currently learning TypeScript, VueJS, Node.js and JS improvements👩🏻‍🏫</li>
   <li>Ask me about tech, boxing, AI, Jujutsu Kaisen🏄🏻‍♀️</li>
-  <li>Fun fact: As a kid I wanted to be a rock star, a motorcycle racer and a WWE wrestler (and I still do) 👩🏻‍🎤</li>
+  <li>Fun fact: As a kid I wanted to be a rock star, a motorcycle racer and a WWE wrestler at the same time (and I still do) 👩🏻‍🎤</li>
 </ul>
 
 <h2> technologies: </h2>
