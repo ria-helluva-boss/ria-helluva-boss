@@ -3,6 +3,8 @@
 <h1>
 i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
 </h1>
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dianaprins179@gmail.com)
+<br>
 <div id="badges">
   <a href="[t.me/helluvaboss_xvz](https://t.me/helluvaboss_xvz)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
@@ -11,7 +13,7 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JsZWxrbnR3aHhoaTh4M2t6eTNpODBkMzdldGZleWhjY3VyMXp0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
 </div>
---
+<br>
  Here's some facts about me:
 - I'm in love with coding
 - I’m currently working on ReactJS
