@@ -34,10 +34,6 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>My stats:</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ria-helluva-boss" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ria-helluva-boss&layout=compact" alt="GitHub Streak" />
-
 <h2>Connect me:</h2>
 <ul>
  <li><a href="https://t.me/helluvaboss_xvz">Telegram</a></li>
