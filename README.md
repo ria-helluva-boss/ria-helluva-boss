@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Victoria's+(+helluva+boss+)+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Victoria's+Github+Profile..)](https://git.io/typing-svg)
 <h1>
 i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
 </h1>
