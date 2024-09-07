@@ -7,6 +7,7 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JsZWxrbnR3aHhoaTh4M2t6eTNpODBkMzdldGZleWhjY3VyMXp0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
 </div>
 <br>
+
 <h2> Technologies: </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
