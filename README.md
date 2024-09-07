@@ -7,6 +7,14 @@ i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JsZWxrbnR3aHhoaTh4M2t6eTNpODBkMzdldGZleWhjY3VyMXp0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
 </div>
 <br>
+<h2>some facts about me:</h2>
+<ul>
+  <li>I'm in love with coding 👩🏻‍💻</li>
+  <li>I’m currently working on ReactJS🧞‍♀️</li>
+  <li>I’m currently learning TypeScript, VueJS, Node.js and JS improvements👩🏻‍🏫</li>
+  <li>Ask me about tech, boxing, AI, Jujutsu Kaisen🏄🏻‍♀️</li>
+  <li>Fun fact: As a kid I wanted to be a rock star, a motorcycle racer and a WWE wrestler (and I still do) 👩🏻‍🎤</li>
+</ul>
 
 <h2> Technologies: </h2>
 <div>
