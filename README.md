@@ -4,11 +4,11 @@
 i'm Victoria and i'm a Frontend Developer! 👩🏻‍💻
 </h1>
 <div id="badges" align="center">
-  <a href="t.me/helluvaboss_xvz">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
   <a href="mailto:dianaprins179@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+    <a href="t.me/helluvaboss_xvz">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   </div>
 <div id="header" align="center">
